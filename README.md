@@ -20,7 +20,7 @@
  
 **Backend**
 
-*- npm install*
+*- npm*
 
 *-Entre na pasta scripts e execute todos os scripts ( cd scripts )*
 
