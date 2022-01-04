@@ -20,7 +20,7 @@
  
 **Backend**
 
-*- npm*
+*- Execute o npm/yarn para instalar todas as dependencias*
 
 *-Entre na pasta scripts e execute todos os scripts ( cd scripts )*
 
@@ -28,7 +28,7 @@
 
  **Frontend**
  
- *-npm install*
+*- Execute o npm/yarn para instalar todas as dependencias*
  
  *-Entre na pasta src ( cd my-app/src )*
  
