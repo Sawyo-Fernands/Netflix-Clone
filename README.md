@@ -24,7 +24,7 @@
 
 *-Entre na pasta scripts e execute todos os scripts ( cd scripts )*
 
--Execute o index.js ( yarn start / npm start) *
+*-Execute o index.js ( yarn start / npm start)*
 
  **Frontend**
  
